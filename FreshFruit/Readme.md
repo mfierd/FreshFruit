@@ -11,7 +11,7 @@ Aplikasi sederhana tentang penjualan buah yang menerapkan konsep MVC yang diteka
 Sebagai tempat untuk handle event ketika action dijalankan berhasil (onSucceed) atau gagal (onFailed)
 2. Class Diagram
 
-![Class](../../../source/repos/Fresh-Fruit/class.png)
+![Class](../../../source/repos/FreshFruit/class.png)
 
 3. Pemrograman
 - pada MainWindow.xaml.cs membuat sebuah instance dari masing - masing class.
